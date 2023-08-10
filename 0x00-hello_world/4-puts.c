@@ -1,13 +1,10 @@
-#!/bin/bash
-#include <stdion.h>
- /**The preprocessor directive #include <stdio/h>
-  * the entry point -main
-  **/
-int main(){
-	/**Declaration of string x **/
-	char X [] = "Programming is like building a multilingual puzzle,";
-	/**outputing the output of x **/
-	put ("%s", x)	
-	/**Returning the value of 0 **/
-	return 0;
+#include <stdio.h>
+/**
+*main -A program that print"tProgramming is like building a multilingual puzzle"in a p*ut functiom
+*Return: 0 (Success)
+*/
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
