@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main -A program that print"tProgramming is like building a multilingual puzzle"in a p*ut functiom
+*main -A program that print in a p*t function
 *Return: 0 (Success)
 */
 int main(void)
