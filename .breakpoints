@@ -1,0 +1,20 @@
+{
+  "files": {
+    "0x09-static_libraries/.gitignore": [
+      {
+        "id": "5a98e7c2-f11d-471b-a822-85c13e5fe67f",
+        "line": 20,
+        "version": 1,
+        "index": 211
+      }
+    ],
+    "0x09-static_programming": [
+      {
+        "id": "ca14ae85-45f7-4d8f-9790-24a87885b87a",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ]
+  }
+}
