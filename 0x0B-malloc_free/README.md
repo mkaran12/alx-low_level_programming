@@ -1,0 +1,1 @@
+This repository contains C functions that perform various operations, including creating arrays, duplicating strings, concatenating strings, allocating and freeing memory for 2D grids, and splitting strings into words.
